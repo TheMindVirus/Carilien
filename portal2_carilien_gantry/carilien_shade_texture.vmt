@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"vgui/resource/carilien_shade_texture"
+	"$translucent" 1
+	"$surfaceprop"	"default"
+}

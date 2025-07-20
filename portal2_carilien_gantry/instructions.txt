@@ -1,0 +1,6 @@
+1. Put carilien_shade_texture.vmt .vtf and .tga into:
+"C:\Steam\steamapps\common\Portal 2\platform\materials\vgui\resource\"
+2. Open the map in Hammer which is part of Portal 2 Authoring Tools
+(also assuming crowbar and vtfedit have become part of the source tools)
+3. Run the map from Hammer and playtest the level in Portal 2
+(from the main menu press ` for console and enter 'map carilien_gantry')
