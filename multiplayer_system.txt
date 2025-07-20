@@ -1,0 +1,20 @@
+[multiplayer_pdp11_dos_system]
+
+* turn based patching minigame
+* multiple bytes hide and seek
+* service the fusebox breakers
+* routing multicoloured lasers
+* oil on water lava lamp swarm
+* chip tune synthesis sequence
+* mayday the server is on fire 
+* extinguish all of the lights
+* extract the key informations
+
+* tonnes of spontaneous easter eggs
+* asobo watchdogs backend multiplayer code scraps
+* fidelity of assassin's creed made accessible to a wider audience
+* timescale for multiplayer can be after glados but is mostly set before
+* everything that didn't quite fit into other games in community patches
+* collaborations with other titles e.g. cyberpunk's minigame and among-us lights
+* very light virtual reality integration but no requirement for a headset except in the remakes
+* step by step instructions with 2 line paragraphs alternating with images as a repair guide manual
