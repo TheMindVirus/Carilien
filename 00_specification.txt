@@ -1,0 +1,62 @@
+[00_intro]: Dial 00 for Bug Reports
+
+Carilien is a dystopian video game universe set deep within the bowels of
+a telephone exchange which later became the basis of the Combine in canonical Valve lore.
+
+The theme colours are dark green, rust, yellow and black for signage with white handwritten text.
+The industrial grunge aesthetic is visible on most 1970's portal 2 levels and in other games.
+
+The main character is "caroline" but her name badge and all her belongings state her name as
+"carilien" due to an admin error while entering her name into a database at early Aperture.
+
+The main character is female and has recently incurred brain damage with some amnesia
+and cannot as an engineer herself remember where she is or what job she was assigned.
+
+The overarching message from the Aperture Science engineers is "Don't Build GLaDOS"
+whereby the chamber of GLaDOS is still under construction and needs several repairs.
+
+The tests occur within the confines of an Aperture Science Carilien Hypercule
+where a hypercule is a spherical wireframe mesh into which test chambers are usually built.
+
+There are remnants of the project to expand the then arpanet into something much wider
+ranging a span of multiple continents worldwide to share telegram messages internationally.
+
+The basis for the current build is a Portal 2 level designer map file .bsp package
+with some compatibility ranging into expansions such as Portal Reloaded and Revolution.
+
+A future build of the game may feature PDP-11 devices hosting engineering minigame puzzles
+and more directly resembles the telephone exchange gantry elevator where the game is set.
+
+[script]
+cave johnson: "they say when you work at the service 'redline' the people you look after become like you..."
+cave johnson: "...allegedly speaking of course, I have no idea how any of that stuff is supposed to actually work in practice..."
+cave johnson: "...I will personally see to it that an aperture science dedicated engineer, after moments of stark realisation, will figure out how that actually happens."
+carilien: "i'm like them ... and they're like me ... no ... wait ... i am them ... "
+cores: "{chorus} and we're you."
+carilien: "... ! ... but ... that's my name ... ! ..."
+carilien: "... 'CAROLINE' ..."
+
+[multiplayer]
+* turn based patching minigame
+* multiple bytes hide and seek
+* service the fusebox breakers
+* routing multicoloured lasers
+* oil on water lava lamp swarm
+* chip tune synthesis sequence
+* mayday the server is on fire 
+* extinguish all of the lights
+* extract the key informations
+
+[gambits]
+* collaborations with other titles
+* tonnes of spontaneous easter eggs
+* multiplayer code scraps from other games
+* fidelity of mature titles made accessible to a wider audience
+* timescale for multiplayer can be after glados but is mostly set before
+* very light virtual reality integration but no requirement for a headset to be worn
+
+[trivia]
+* A similar construct to the gantry can be seen in Black Mesa marked in dark green on the sector map.
+* The intro music features in the Portal 2 OST as "There She Is" and "Technical Difficulties"
+
+[14:28 21/07/2025]

@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-<rect width="100%" height="100%" fill="#000"></rect>
-<path d="m 100 100 m 0 100 l 100 -100 l 50 0 l -50 50 l -50 0 m 60 0 l 50 -50 l 50 0 m 10 0 l 50 0 l -50 50 l -50 0 l 50 -50 m 60 0 l 50 0 m 0 -50 l -100 100 l 50 0 m 10 0 l 50 -50 l 50 0 l -50 50 l -50 0 m 110 0 l -50 0 l 50 -50 l 50 0 m 10 0 l 50 0 l -50 50 l -50 0 l 50 -50 m 110 -50 l -100 100 l 50 0 l 6 -6" stroke="#F06" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
-</svg>
