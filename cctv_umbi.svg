@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="100%" height="100%" fill="black"></rect>
+<path d="M 640 500 m -100 -450 l 0 600 m 200 -600 l 0 600" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m 100 -410 s -50 0 -50 400 l 0 0 s 0 50 -50 50 l -20 0" fill="none" stroke="#1fa" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -10 0 l 20 0 l 5 20 l 5 -5 m -10 -15 l -10 10 l -10 -10 m 10 10 l 0 40" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m 0 20 l -20 20 m 20 -20 l -10 20" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m 0 50 l -10 20 m 10 -20 l 10 20" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -8 6 l 1 1 m 10 0 l 1 -1" fill="none" stroke="#1fa" stroke-width="6" stroke-linecap="round"></path>
+<path d="M 640 500 m -90 15 l 0 50 m 10 0 l 50 -20 m 0 -10 l -50 -20" fill="none" stroke="#00f" stroke-width="6" stroke-linecap="round"></path>
+<text x="80" y="570" fill="#fff" font-family="sans-serif" font-size="100pt">PDP-11</text>
+<text x="750" y="190" fill="#fff" font-family="sans-serif" font-size="100pt">UMBI</text>
+</svg>
