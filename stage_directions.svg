@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="100%" height="100%" fill="black"></rect>
+<path d="M 640 500 m -80 130 l 0 -50 l 160 0 l 0 50" fill="none" stroke="#333" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+
+<path d="M 640 500 m -600 -450 s 0 -50 600 -50 l 0 0 s 600 0 600 50" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -600  200 s 0 -50 600 -50 l 0 0 s 600 0 600 50" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -600 -450 l 0 650 m 1200 -650 l 0 650" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+
+<path d="M 640 500 m -100 -450 l 0 600 m 200 -600 l 0 600" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -120 -450 l 0 600 m 240 -600 l 0 600" fill="none" stroke="#fed" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -140 -450 l 0 600 m 280 -600 l 0 600" fill="none" stroke="#1fa" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10"></path>
+
+<path d="M 640 500 m 100 -410 s -50 0 -50 400 l 0 0 s 0 50 -50 50 l -20 0" fill="none" stroke="#1fa" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -10 0 l 20 0 l 5 20 l 5 -5 m -10 -15 l -10 10 l -10 -10 m 10 10 l 0 40" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m 0 20 l -20 20 m 20 -20 l -10 20" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m 0 50 l -10 20 m 10 -20 l 10 20" fill="none" stroke="#555" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"></path>
+<path d="M 640 500 m -8 6 l 1 1 m 10 0 l 1 -1" fill="none" stroke="#1fa" stroke-width="6" stroke-linecap="round"></path>
+<path d="M 640 500 m -90 15 l 0 50 m 10 0 l 50 -20 m 0 -10 l -50 -20" fill="none" stroke="#00f" stroke-width="6" stroke-linecap="round"></path>
+
+<text x="80" y="170" fill="#fff" font-family="sans-serif" font-size="20pt">[Carilien - The Musical]</text>
+<text x="80" y="220" fill="#fff" font-family="sans-serif" font-size="20pt">* backdrop projection mapping</text>
+<text x="80" y="270" fill="#fff" font-family="sans-serif" font-size="20pt">* elevator shaft flooring</text>
+<text x="80" y="320" fill="#fff" font-family="sans-serif" font-size="20pt">* columnar scaffolding</text>
+<text x="80" y="370" fill="#fff" font-family="sans-serif" font-size="20pt">* columnar curtains</text>
+<text x="80" y="420" fill="#fff" font-family="sans-serif" font-size="20pt">* umbilical cord</text>
+<text x="80" y="470" fill="#fff" font-family="sans-serif" font-size="20pt">* video displays</text>
+<text x="80" y="520" fill="#fff" font-family="sans-serif" font-size="20pt">* auxiliary lighting</text>
+<text x="80" y="570" fill="#fff" font-family="sans-serif" font-size="20pt">* optional mezzanines</text>
+
+<text fill="#fff" font-family="sans-serif" font-size="8pt">
+<tspan x="800" y="10em">[features]</tspan>
+<tspan x="800" y="11em">* backdrop projection mapping - usually dark - adds core chamber detail</tspan>
+<tspan x="800" y="12em">* elevator shaft flooring - made of steel deck - ideally with winch</tspan>
+<tspan x="800" y="13em">* columnar scaffolding - surrounds the steel deck - quite tall</tspan>
+<tspan x="800" y="14em">* columnar curtains - canvas covering the tall structure</tspan>
+<tspan x="800" y="15em">* umbilical cord - camera draped in with cable covered in green conduit</tspan>
+<tspan x="800" y="16em">* video displays - built in to the scaffolding at floor level</tspan>
+<tspan x="800" y="17em">* auxiliary lighting - from the elevator shaft - into reality</tspan>
+<tspan x="800" y="18em">* optional mezzanines - upper levels without the presence of a winch</tspan>
+<tspan x="800" y="40em">[sequence]</tspan>
+<tspan x="800" y="41em">(curtain call - dim house lights)</tspan>
+<tspan x="800" y="42em">* preshow - dim core chamber - hyper green - curtains closed</tspan>
+<tspan x="800" y="43em">* fade to black - no lights - except emergency infrastructure</tspan>
+<tspan x="800" y="44em">* fade to cave shaft - main character searches for lightswitch</tspan>
+<tspan x="800" y="45em">(begin repeated section - optional fade to black)</tspan>
+<tspan x="800" y="46em">* center spot on elevator - lightswitch turned on - curtains opened</tspan>
+<tspan x="800" y="47em">* auxiliary light chase - umbi camera on backdrop - video displays connected</tspan>
+<tspan x="800" y="48em">* begin musical number - chases heavily dependent on number being performed</tspan>
+<tspan x="800" y="49em">(repeat section per number - optional fade to black)</tspan>
+<tspan x="800" y="50em">* auxiliary light chase - core chamber slides in upwards on backdrop</tspan>
+<tspan x="800" y="51em">* spectacular effects - bright core chamber - hyper green - curtains closed</tspan>
+<tspan x="800" y="52em">* dramatic blackout - alien sound effects creeping in - lightswitch tripped</tspan>
+<tspan x="800" y="53em">(curtain call - bright house lights)</tspan>
+</text>
+</svg>
